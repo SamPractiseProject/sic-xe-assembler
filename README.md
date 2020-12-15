@@ -1,19 +1,26 @@
 ***********************************************************************
 *                       SIC/XE Assembler                              *
+*                                                                     *
 *                        Yang YaoNing                                 *
 ***********************************************************************
 
 支援 : 
+
 1. 2-PASS Assembler
 2. SIC/XE 全指令 support
+
 
 
 Assembler程式編譯環境 :
 windows/Dev C++ 5.6.3/C
 
+
+
 使用方法 : 
 將assembler.c 放置於source code同個資料夾中執行，
 產生出SIC/XE 的OBJFILE.
+
+
 
 注意事項 : 
 1. source code 需命名為 source_code.txt。
